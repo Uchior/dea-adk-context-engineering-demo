@@ -1,0 +1,24 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+
+# PDFs (downloaded artifacts)
+*.pdf
+
+# ADK
+.adk/
+
+# IDE
+.idea/
+.vscode/
